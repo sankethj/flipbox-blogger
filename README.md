@@ -1,2 +1,2 @@
 # flipbox-blogger
-Source code of flipbox
+Source code of flipbox blogger
